@@ -23,5 +23,8 @@ bubbles = [
 
 
 for i in bubbles:
-	print(i)                                            
+	print(i)      
+
+
+	Hello Piet. Can you read it?                                      
 
